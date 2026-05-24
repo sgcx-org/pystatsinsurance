@@ -10,7 +10,7 @@ Usage:
     result = reserving.chain_ladder(triangle)
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Hai-Shuo"
 __email__ = "contact@sgcx.org"
 
